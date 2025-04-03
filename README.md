@@ -168,7 +168,7 @@ jasjeev013-neighbourly-frontend/
 ![Events Page](./public/events.png) 
 
 ### Organization Dashboard
-![Organization Dashboard](./images/org-dashboard.png) 
+![Organization Dashboard](./public/org-dashboard.png) 
 
 ---
 
