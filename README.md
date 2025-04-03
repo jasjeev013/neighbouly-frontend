@@ -161,7 +161,8 @@ jasjeev013-neighbourly-frontend/
 ![Homepage](./public/homepage.png) 
 
 ### Authentication Flow
-![Login Page](/path/to/login.png) 
+![Login Page](./public/login.png) 
+![Sign Up Page](./public/signup.png) 
 
 ### Event Discovery
 ![Events Page](./public/events.png) 
