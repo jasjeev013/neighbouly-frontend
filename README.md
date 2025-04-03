@@ -1,7 +1,7 @@
 
 # Neighbourly: Let's Connect Communities - Frontend
 
-![Neighbourly Banner](/path/to/banner.png) *(Replace with project banner image)*
+![Neighbourly Banner](./public/bg-image.png) 
 
 ## 🌟 About The Project
 
@@ -25,8 +25,7 @@ Neighbourly is a community engagement platform that enables people to create, pu
 5. [Project Structure](#-project-structure)
 6. [Screenshots](#-screenshots)
 7. [Contributing](#-contributing)
-8. [License](#-license)
-9. [Contact](#-contact)
+8. [Contact](#-contact)
 
 ---
 
@@ -159,16 +158,16 @@ jasjeev013-neighbourly-frontend/
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](/path/to/homepage.png) *(Replace with actual screenshot)*
+![Homepage](./public/homepage.png) 
 
 ### Authentication Flow
-![Login Page](/path/to/login.png) *(Replace with actual screenshot)*
+![Login Page](/path/to/login.png) 
 
 ### Event Discovery
-![Events Page](/path/to/events.png) *(Replace with actual screenshot)*
+![Events Page](./public/events.png) 
 
 ### Organization Dashboard
-![Organization Dashboard](/path/to/org-dashboard.png) *(Replace with actual screenshot)*
+![Organization Dashboard](./images/org-dashboard.png) 
 
 ---
 
@@ -184,19 +183,11 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 ## 📧 Contact
 
 **Jasjeev**  
 - GitHub: [@jasjeev013](https://github.com/jasjeev013)
-- Email: your.email@example.com
-
-*(Replace contact information with your details)*
+- Email: jasjeev99@gmail.com
 
 ---
 
